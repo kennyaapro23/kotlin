@@ -214,11 +214,11 @@ class MainActivity : ComponentActivity() {
     data class Usuario(val nombre: String, val edad: Int)
 
     fun ejercicio9() {
-        val persona = Persona("Kelman", 25)
+        val persona = Persona("Kenny", 25)
         persona.cumplirAnios()
         println(persona.presentacion())
 
-        val usuario1 = Usuario("Kelman", 26)
+        val usuario1 = Usuario("Kenny", 26)
         val usuario2 = usuario1.copy(edad = 27)
         println("Usuario1: $usuario1")
         println("Usuario2 (copia): $usuario2")
