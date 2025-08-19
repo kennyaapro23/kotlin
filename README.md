@@ -109,6 +109,6 @@ Los resultados de cada ejercicio se imprimen en Logcat. Se recomienda ejecutar l
 
 ## 👨‍💻 Autor
 
-**Erick** — Desarrollador Android apasionado por Kotlin, Jetpack Compose y la creación de interfaces limpias, interactivas y funcionales.
+**Kelman** — Desarrollador Android apasionado por Kotlin, Jetpack Compose y la creación de interfaces limpias, interactivas y funcionales.
 
 ---
